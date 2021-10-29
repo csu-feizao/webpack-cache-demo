@@ -1,0 +1,26 @@
+{
+  "name": "@webpack-demo/app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csu-feizao/webpack-cache-demo.git"
+  },
+  "author": "Xinghua Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csu-feizao/webpack-cache-demo/issues"
+  },
+  "homepage": "https://github.com/csu-feizao/webpack-cache-demo#readme",
+  "dependencies": {
+    "@webpack-demo/components": "1.0.0"
+  },
+  "devDependencies": {
+    "webpack": "~5.60.0",
+    "webpack-cli": "~4.9.1"
+  }
+}
